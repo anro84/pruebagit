@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(187, 239, 223);
+    font-family: sans-serif;
+}
+
+.logo{
+    text-align: center;
+}
+
+.imgLogo{
+    border-radius: 50%;
+    width: 100px
+}
+
+h1{
+    text-align: center;
+    color: rgb(66, 105, 26);
+    padding: 10;
+}
+
+h3{font-style: italic;
+    color: #487021;
+    padding: 10;
+    text-align: center;
+
+}
+nav{
+    background-color:  #33e9ad;
+    padding: 0 20px;
+
+}
+.parrafo1{
+    padding: 20px;
+    line-height: 1.5;
+}
+.parrafo2{
+    padding: 20px;
+    line-height: 1.5;
+}
+.imagenGrande{
+    padding: 10px;
+    text-align: center;
+}
+
+
+
+.imagenGrande img{
+    border-radius: 20px;
+    width: 400px;    
+
+}
+footer{
+    padding: 20px;
+    background: rgb(57,159,18);
+    background: linear-gradient(90deg, rgba(57,159,18,1) 73%, rgba(228,205,23,1) 100%);
+
+}
